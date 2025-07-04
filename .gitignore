@@ -1,0 +1,27 @@
+# Create .gitignore file
+echo "# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Chroma database
+chroma_simple_db/
+
+# Downloaded PDFs
+temp_recipes.pdf
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db" > .gitignore
