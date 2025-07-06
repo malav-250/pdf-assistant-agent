@@ -1,5 +1,4 @@
-# Create README file
-echo "# PDF Assistant
+# PDF Assistant
 
 A PDF Assistant that uses Groq LLM and Chroma vector database to answer questions about Thai recipes.
 
@@ -15,4 +14,4 @@ A PDF Assistant that uses Groq LLM and Chroma vector database to answer question
 3. Run: \`python simple_pdf_assistant.py\`
 
 ## Usage
-Ask questions about Thai recipes and get AI-powered responses!" > README.md
+Ask questions about Thai recipes and get AI-powered responses!"
